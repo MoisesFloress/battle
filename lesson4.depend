@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1550709409 source:c:\users\simpl\desktop\csci191t_projects\lesson4\main.cpp
+	<windows.h>
+	<string.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1550201434 c:\users\simpl\desktop\csci191t_projects\lesson4\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+
+1549471311 c:\users\simpl\desktop\csci191t_projects\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1550201479 source:c:\users\simpl\desktop\csci191t_projects\lesson4\src\gllight.cpp
+	"GLLight.h"
+
+1550201492 c:\users\simpl\desktop\csci191t_projects\lesson4\include\gllight.h
+	<GLScene.h>
+
+1550771131 source:c:\users\simpl\desktop\csci191t_projects\lesson4\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Inputs.h>
+	<Model.h>
+
+1550711002 c:\users\simpl\desktop\csci191t_projects\lesson4\include\inputs.h
+	<windows.h>
+	<Model.h>
+
+1550711673 source:c:\users\simpl\desktop\csci191t_projects\lesson4\src\inputs.cpp
+	"Inputs.h"
+
+1550770842 source:c:\users\simpl\desktop\csci191t_projects\lesson4\src\model.cpp
+	"Model.h"
+
+1550710127 c:\users\simpl\desktop\csci191t_projects\lesson4\include\model.h
+	<windows.h>
+	<GL/glut.h>
+
+1550713010 source:c:\users\nativ\desktop\csci 191\lesson4\main.cpp
+	<windows.h>
+	<string.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1550205036 c:\users\nativ\desktop\csci 191\lesson4\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+
+1548899169 c:\users\nativ\desktop\csci 191\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1550205080 source:c:\users\nativ\desktop\csci 191\lesson4\src\gllight.cpp
+	"GLLight.h"
+
+1550205094 c:\users\nativ\desktop\csci 191\lesson4\include\gllight.h
+	<GLScene.h>
+
+1550774732 source:c:\users\nativ\desktop\csci 191\lesson4\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Inputs.h>
+	<Model.h>
+
+1550714604 c:\users\nativ\desktop\csci 191\lesson4\include\inputs.h
+	<windows.h>
+	<Model.h>
+
+1550713728 c:\users\nativ\desktop\csci 191\lesson4\include\model.h
+	<windows.h>
+	<GL/glut.h>
+
+1550715274 source:c:\users\nativ\desktop\csci 191\lesson4\src\inputs.cpp
+	"Inputs.h"
+
+1550774444 source:c:\users\nativ\desktop\csci 191\lesson4\src\model.cpp
+	"Model.h"
+
+1553555756 source:c:\users\nativ\desktop\csci 191\lesson4new\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1553371846 c:\users\nativ\desktop\csci 191\lesson4new\include\glscene.h
+	<windows.h>
+	"GL/gl.h"
+	<iostream>
+
+1553371776 source:c:\users\nativ\desktop\csci 191\lesson4new\src\gllight.cpp
+	"GLLight.h"
+
+1553371774 c:\users\nativ\desktop\csci 191\lesson4new\include\gllight.h
+	<GLScene.h>
+
+1557301746 source:c:\users\nativ\desktop\csci 191\lesson4new\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<GL/gl.h>
+	<objects.h>
+	<Battle.h>
+	<Enemy.h>
+
+1553371860 c:\users\nativ\desktop\csci 191\lesson4new\include\model.h
+	<windows.h>
+	"GL/glu.h"
+
+1557295175 c:\users\nativ\desktop\csci 191\lesson4new\include\inputs.h
+	<windows.h>
+	<iostream>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<objects.h>
+	<Battle.h>
+
+1553371774 c:\users\nativ\desktop\csci 191\lesson4new\include\parallax.h
+	<iostream>
+	<string.h>
+	<gl/gl.h>
+	<windows.h>
+
+1557281354 c:\users\nativ\desktop\csci 191\lesson4new\include\player.h
+	<Model.h>
+	<gl/gl.h>
+	<textureLoader.h>
+
+1557302651 c:\users\nativ\desktop\csci 191\lesson4new\include\textureloader.h
+	<SOIL.h>
+	<gl/gl.h>
+	<Battle.h>
+	<Enemy.h>
+
+1548900125 c:\users\nativ\desktop\csci 191\common\include\soil.h
+
+1557297507 source:c:\users\nativ\desktop\csci 191\lesson4new\src\inputs.cpp
+	"Inputs.h"
+	<player.h>
+	<objects.h>
+	<Battle.h>
+
+1553553506 source:c:\users\nativ\desktop\csci 191\lesson4new\src\model.cpp
+	"Model.h"
+	<textureLoader.h>
+
+1553371776 source:c:\users\nativ\desktop\csci 191\lesson4new\src\parallax.cpp
+	"parallax.h"
+	<textureLoader.h>
+
+1557282169 source:c:\users\nativ\desktop\csci 191\lesson4new\src\player.cpp
+	<player.h>
+	<timer.h>
+	<textureLoader.h>
+
+1553371774 c:\users\nativ\desktop\csci 191\lesson4new\include\timer.h
+	<time.h>
+
+1553372040 source:c:\users\nativ\desktop\csci 191\lesson4new\src\soil.cpp
+
+1553459178 source:c:\users\nativ\desktop\csci 191\lesson4new\src\textureloader.cpp
+	<iostream>
+	"textureLoader.h"
+	<SOIL.h>
+
+1553371776 source:c:\users\nativ\desktop\csci 191\lesson4new\src\timer.cpp
+	"timer.h"
+
+1553372011 c:\users\nativ\desktop\csci 191\lesson4new\include\soil.h
+
+1557283266 source:c:\users\nativ\desktop\csci 191\lesson4new\src\objects.cpp
+	"objects.h"
+
+1557290691 c:\users\nativ\desktop\csci 191\lesson4new\include\objects.h
+	<GL/gl.h>
+
+1557300993 source:c:\users\nativ\desktop\csci 191\lesson4new\src\battle.cpp
+	"Battle.h"
+	<objects.h>
+
+1557294515 c:\users\nativ\desktop\csci 191\lesson4new\include\battle.h
+	<objects.h>
+
+1557301882 source:c:\users\nativ\desktop\csci 191\lesson4new\src\enemy.cpp
+	"Enemy.h"
+	<timer.h>
+	<textureLoader.h>
+
+1557301882 c:\users\nativ\desktop\csci 191\lesson4new\include\enemy.h
+	<Model.h>
+	<gl/gl.h>
+	<textureLoader.h>
+
